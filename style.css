@@ -1,0 +1,5 @@
+body{
+    background: url('tracks.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin-top: 20px;
+}
